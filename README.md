@@ -31,4 +31,4 @@ Proyek ini menampilkan informasi perusahaan, layanan, katalog produk, serta tim 
 
 ### 1️⃣ Clone repository
 ```bash
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/destiaeka/Company-Profile.git
