@@ -5,22 +5,6 @@ Proyek ini menampilkan informasi perusahaan, layanan, katalog produk, serta tim 
 
 ---
 
-## 📂 Struktur Direktori
-.
-├── .github/
-│ └── workflows/
-│ └── ci.yml # Konfigurasi GitHub Actions (CI)
-├── img/ # Folder untuk gambar dan aset visual
-├── home.html # Halaman utama
-├── katalog.html # Halaman katalog produk
-├── layanan.html # Halaman layanan
-├── pengembang.html # Halaman tim pengembang
-├── profile.html # Halaman profil perusahaan
-└── README.md
-
-
----
-
 ## 🚀 Fitur Utama
 
 - Desain responsif menggunakan **HTML + CSS murni**
@@ -32,16 +16,14 @@ Proyek ini menampilkan informasi perusahaan, layanan, katalog produk, serta tim 
   - 📦 **Katalog Produk**
   - 👩‍💻 **Tim Pengembang**
 - Optimisasi untuk tampilan desktop & mobile
-- Terintegrasi dengan **GitHub Actions** untuk proses *Continuous Integration (CI)* otomatis
 
 ---
 
 ## 🧰 Teknologi yang Digunakan
 
-- **HTML5** — struktur konten  
-- **CSS3** — desain dan tata letak  
-- **JavaScript (opsional)** — interaktivitas ringan  
-- **GitHub Actions** — otomatisasi workflow CI  
+- **HTML5** — 
+- **CSS3** —  
+- **JavaScript (opsional)** —   
 
 ---
 
