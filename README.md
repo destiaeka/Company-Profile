@@ -21,9 +21,9 @@ Proyek ini menampilkan informasi perusahaan, layanan, katalog produk, serta tim 
 
 ## 🧰 Teknologi yang Digunakan
 
-- **HTML5** — 
-- **CSS3** —  
-- **JavaScript (opsional)** —   
+- **HTML5** 
+- **CSS3**   
+- **JavaScript (opsional)** 
 
 ---
 
